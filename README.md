@@ -20,3 +20,5 @@ engine.
 
 We tested our MapReduce facility on two test cases. Through step by step running and
 checking our engine, it achieves the original design perfectly.
+
+The Repository is only used for study. All rights reserved.
